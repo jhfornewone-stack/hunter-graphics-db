@@ -1,0 +1,14 @@
+[
+    {
+        "id": "hunter",
+        "name": "HUNTER V1",
+        "version": "1.0.4",
+        "author": "John Hunter",
+        "authorLink": "https://discord.gg/hunter",
+        "downloads": "12.5K",
+        "shortDesc": "Агрессивный пресет для каптов. Убрано лишнее освещение.",
+        "fullDesc": "Hunter Redux создан специально для киберспортивной стрельбы...",
+        "features": ["Удален туман", "Светлые ночи", "Оптимизация теней"],
+        "videoUrl": "https://youtu.be/ZRlHrtSqYgE?si=AcG25VKf3E9rL-vA" 
+    }
+]
