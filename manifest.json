@@ -2,16 +2,66 @@
     {
         "id": "hunter",
         "name": "HUNTER V1",
-        "version": "1.0.4",
+        "version": "1.0.0",
         "author": "John Hunter",
-        "authorLink": "https://discord.gg/hunter",
-        "downloads": "12.5K",
-        "shortDesc": "Агрессивный пресет для каптов. Убрано лишнее освещение.",
-        "fullDesc": "Hunter Redux создан специально для киберспортивной стрельбы...",
-        "features": ["Удален туман", "Светлые ночи", "Оптимизация теней"],
+        "authorLink": "https://discord.gg/hunterfamq",
+        "downloads": "99.5K",
+        "shortDesc": "Легендарные хантеровский редукс, с липучкой",
+        "fullDesc": "Лучший редукс для игры, встроенны все что можно, ревик с теплаком, залазы на капты ( не просто показывают, а прям мостики). + К хую 22 см",
+        "features": ["Удален туман", "Светлые ночи", "Оптимизация теней", "Добавлен Аим", "Убрана отдача"],
+        "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+    },
+    {
+        "id": "gucci",
+        "name": "GUCCI",
+        "version": "2.1.0",
+        "author": "Gucci Boy",
+        "authorLink": "https://youtube.com/@adrenaline9999",
+        "downloads": "8.2K",
+        "shortDesc": "Эстетика и сочные цвета. Идеально для красивых скриншотов.",
+        "fullDesc": "Gucci Redux — это баланс между красотой и производительностью. Насыщенные цвета, улучшенные отражения на машинах и переработанное небо.",
+        "features": ["4K Текстуры дорог", "Реалистичные лужи", "Сочные цвета"],
+        "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+    },
+    {
+        "id": "allegri",
+        "name": "ALLEGRI",
+        "version": "1.8.2",
+        "author": "AllegriMods",
+        "authorLink": "https://t.me/hunterfamq",
+        "downloads": "24.1K",
+        "shortDesc": "Мрачный и строгий стиль. Ночи по-настоящему темные.",
+        "fullDesc": "Allegri погружает игру в нуарную атмосферу. Переработаны источники света (фонари, фары), темные ночи и специальный мрачный таймцикл.",
+        "features": ["Темные ночи", "Мрачный Timecycle", "Новый свет фар"],
+        "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+    },
+    {
+        "id": "fiend",
+        "name": "FIEND",
+        "version": "1.0.0",
+        "author": "FiendDev",
+        "authorLink": "https://discord.gg/hunterfamq",
+        "downloads": "5.7K",
+        "shortDesc": "Буда ебанный не мужчина редукс",
+        "fullDesc": "Тотальная переработка освещения в стиле Retrowave. Ночной Лос-Сантос залит говном буды просто ебанный читер буда не мужчина.",
+        "features": ["Жопа буды", "Хуй буды", "Нос буды"],
+        "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+    },
+    {
+        "id": "faraday",
+        "name": "FARADAY",
+        "version": "3.0.1",
+        "author": "Faraday Tech",
+        "authorLink": "https://t.me/hunterfamq",
+        "downloads": "18.9K",
+        "shortDesc": "Максимальный реализм. Закат братик с ним катает",
+        "fullDesc": "Пресет, ориентированный на физическую корректность освещения. Улучшенная глобальная проприсовка  и тени длинные как в кс ",
+        "features": ["Автонаводки нет", "Как дела", "Shadows"],
         "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
     }
+]
 
 ]
+
 
 
